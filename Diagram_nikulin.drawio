@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-06-30T07:06:20.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.160 YaBrowser/22.5.2.615 Yowser/2.5 Safari/537.36" version="20.0.4" etag="1tLxa7W3KYR63xCn4PIA" type="github"><diagram id="JP2BH_uwpymWlr3AVcjf">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-01T08:01:57.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.160 YaBrowser/22.5.2.615 Yowser/2.5 Safari/537.36" etag="3FwSxM3jSiRG7aNjlhOr" version="20.0.4" type="github">
+  <diagram id="JP2BH_uwpymWlr3AVcjf" name="Page-1">
+    <mxGraphModel dx="1422" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="583" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="V8lwDB917CYLnrSRujJK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V8lwDB917CYLnrSRujJK-1" target="V8lwDB917CYLnrSRujJK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V8lwDB917CYLnrSRujJK-1" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="147" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8lwDB917CYLnrSRujJK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V8lwDB917CYLnrSRujJK-2" target="V8lwDB917CYLnrSRujJK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V8lwDB917CYLnrSRujJK-2" value="A, B, C, D" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="147" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8lwDB917CYLnrSRujJK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V8lwDB917CYLnrSRujJK-3" target="V8lwDB917CYLnrSRujJK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V8lwDB917CYLnrSRujJK-3" value="S = (A + B + С +D) / 4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="270" width="153" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8lwDB917CYLnrSRujJK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V8lwDB917CYLnrSRujJK-4" target="V8lwDB917CYLnrSRujJK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V8lwDB917CYLnrSRujJK-4" value="Вывод S" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="147" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V8lwDB917CYLnrSRujJK-5" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="147" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
